@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/644866645133489670/1e116b600ba3495a9d74be79cefb3a7c/artifacts
+end_time: 1726167290084
+entry_point_name: ''
+experiment_id: '644866645133489670'
+lifecycle_stage: active
+run_id: 1e116b600ba3495a9d74be79cefb3a7c
+run_name: big-shark-312
+run_uuid: 1e116b600ba3495a9d74be79cefb3a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726167277443
+status: 4
+tags: []
+user_id: pavan

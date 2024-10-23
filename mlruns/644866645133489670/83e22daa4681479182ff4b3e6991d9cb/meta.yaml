@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/644866645133489670/83e22daa4681479182ff4b3e6991d9cb/artifacts
+end_time: 1726168157387
+entry_point_name: ''
+experiment_id: '644866645133489670'
+lifecycle_stage: active
+run_id: 83e22daa4681479182ff4b3e6991d9cb
+run_name: wistful-mole-112
+run_uuid: 83e22daa4681479182ff4b3e6991d9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726168144291
+status: 4
+tags: []
+user_id: pavan

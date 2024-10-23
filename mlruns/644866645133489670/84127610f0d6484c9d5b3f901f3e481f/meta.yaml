@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/644866645133489670/84127610f0d6484c9d5b3f901f3e481f/artifacts
+end_time: 1726168257148
+entry_point_name: ''
+experiment_id: '644866645133489670'
+lifecycle_stage: active
+run_id: 84127610f0d6484c9d5b3f901f3e481f
+run_name: ambitious-bug-676
+run_uuid: 84127610f0d6484c9d5b3f901f3e481f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726168244724
+status: 3
+tags: []
+user_id: pavan
